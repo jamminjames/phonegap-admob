@@ -61,7 +61,6 @@ import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.mediation.admob.AdMobExtras;
-import com.google.android.gms.ads.purchase.InAppPurchase;
 
 public class AdMobAds extends CordovaPlugin implements IConnectivityChange {
     public static final String ADMOBADS_LOGTAG = "AdmMobAds";
